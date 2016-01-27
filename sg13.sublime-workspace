@@ -1,0 +1,1351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"submitClickToGA"
+			],
+			[
+				"cmpi",
+				"cmpidParam"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"theme",
+				"theme-primary"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bk",
+				"background-position"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"Conte",
+				"ContentTypeId"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fotn",
+				"font-size"
+			],
+			[
+				"getAna",
+				"getAnalyticsVisitorID"
+			],
+			[
+				"pur",
+				"purchaseID"
+			],
+			[
+				"body",
+				"bodyPraser"
+			],
+			[
+				"keep",
+				"keepCampaign"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"err",
+				"err-content"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Conten",
+				"ContentLink"
+			],
+			[
+				"Image",
+				"ImageOrDefault"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"set",
+				"setMetaOnLoad"
+			],
+			[
+				"collL",
+				"collLibKey"
+			],
+			[
+				"create",
+				"createListItem"
+			],
+			[
+				"num",
+				"numOfPendingChange"
+			],
+			[
+				"name",
+				"nameOfPPC"
+			],
+			[
+				"chane",
+				"channelOfTraffic"
+			],
+			[
+				"title",
+				"titleOfTheAsset"
+			],
+			[
+				"ad",
+				"adVariant"
+			],
+			[
+				"setMeta",
+				"setMetaOnForm"
+			],
+			[
+				"chan",
+				"channelOfTraffic"
+			],
+			[
+				"par",
+				"partialURL"
+			],
+			[
+				"asse",
+				"assetTitle"
+			],
+			[
+				"disable",
+				"disableInput"
+			],
+			[
+				"User",
+				"UserExistInGroup"
+			],
+			[
+				"FONT",
+				"font-weight"
+			],
+			[
+				"lang",
+				"langLink"
+			],
+			[
+				"agendaType",
+				"agendaTypeDescription"
+			],
+			[
+				"agend",
+				"agendaTypeElem"
+			],
+			[
+				"agen",
+				"agendaTypeElem"
+			],
+			[
+				"setAgen",
+				"setAgendaTypeLink"
+			],
+			[
+				"agenda",
+				"agendaTypeName"
+			],
+			[
+				"paren",
+				"parentContainer"
+			],
+			[
+				"conte",
+				"contentWidthOffset"
+			],
+			[
+				"agenda-tab",
+				"agenda-table-wrap"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"add",
+				"addExtraRow"
+			],
+			[
+				"get_",
+				"get_web"
+			],
+			[
+				"get",
+				"get_current"
+			],
+			[
+				"gsi",
+				"gsi_HardCodeDigitalForensicesToday"
+			],
+			[
+				"gsi_",
+				"gsi_HardCodeEncaseForensic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1341,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main.ts",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Windows",
+				"name": "import {bootstrap} from 'angular2/platform/browser"
+			}
+		},
+		{
+			"file": "app/sg13.ts",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Windows",
+				"name": "import {Component} from 'angular2/core';"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "git add",
+		"selected_items":
+		[
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"ht mls",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"htmls",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"xsl",
+				"Set Syntax: XSL"
+			],
+			[
+				"xslt",
+				"Set Syntax: Sublime Settings"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htmlasp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"html p",
+				"HTMLPrettify"
+			],
+			[
+				"ssy",
+				"Set Syntax: HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"htmp",
+				"HTMLPrettify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssy java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssyht",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm l",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssyphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: WordPress File Header"
+			],
+			[
+				"ssy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"hmt",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlss",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"htmlsp",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"",
+				"HTMLPrettify"
+			],
+			[
+				"JAVA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html s",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssy ht ml",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht ml",
+				"HTMLPrettify"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"hre",
+				"HTMLPrettify"
+			],
+			[
+				"less",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"ssy h",
+				"Set Syntax: HTML"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ssy asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ssy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"ssy scr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pr",
+				"HTMLPrettify"
+			],
+			[
+				"ssythml",
+				"Set Syntax: HTML"
+			],
+			[
+				"package control instal",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"ssyhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"fo",
+				"Format Code"
+			],
+			[
+				"c",
+				"Format Code"
+			],
+			[
+				"ssy jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssyjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssy javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"co",
+				"Format Code"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"ssy xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ssy xsl",
+				"Set Syntax: XSL"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"clear",
+			"cls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Temp/Shit/SG13",
+		"/C/Temp/Shit/SG13/app"
+	],
+	"file_history":
+	[
+		"/C/Temp/Shit/SGV13/app/ui_tabs.ts",
+		"/C/Temp/Shit/SGV13/app/mainht.ts",
+		"/C/Temp/Shit/SGV13/sgv13.html",
+		"/C/Temp/Shit/SGV13/app/di_demo.ts",
+		"/C/Temp/Shit/SGV13/app/sgv13.ts",
+		"/C/Temp/Shit/SGV13/app/main.ts",
+		"/C/Temp/Shit/SGV13/index.html",
+		"/C/Users/henry.tran/Downloads/translating-513ae6f7-beb0-6108-b3ff-ff0300c79052-from-en-to-es.xlf",
+		"/C/Users/henry.tran/Desktop/Career Blog Post/list.txt",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/css/global.css",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/css/global.less",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/css/content.less",
+		"/C/Temp/Marketing/Adobe/CANCEL/HTML Content contains Adobe",
+		"/C/Users/henry.tran/Downloads/translating-5eaae5f7-beb0-6108-b3ff-ff0300c79052-from-en-to-es.xlf",
+		"/C/Users/henry.tran/Downloads/translating-20ade5f7-beb0-6108-b3ff-ff0300c79052-from-en-to-de.xlf",
+		"/C/Users/henry.tran/Downloads/translating-ceb2e5f7-beb0-6108-b3ff-ff0300c79052-from-en-to-ja.xlf",
+		"/C/Users/henry.tran/Downloads/sitemap.xml",
+		"/C/Users/henry.tran/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/5LH86LVK/www.guidancesoftware[1]",
+		"/C/Temp/Marketing/Sitefinity/Document Library/010/list.txt",
+		"/C/Temp/Marketing/Sitefinity/Document Library/010/images/image.txt",
+		"/C/Temp/Marketing/Sitefinity/Document Library/011/list.txt",
+		"/C/Users/henry.tran/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/2M0XQO8Q/www.guidancesoftware[1]",
+		"/C/Users/henry.tran/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/VVIQR8U5/Home[1]",
+		"/C/Temp/Marketing/Eloqua/Eloqua Tracking/vts-150520123115/PutInHeadSection.html",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/Eloqua.js",
+		"/C/Temp/Marketing/Sitefinity/Document Library/009/name.txt",
+		"/C/Temp/Marketing/Sitefinity/Document Library/008/image/image.txt",
+		"/C/Temp/Marketing/Sitefinity/Document Library/008/file.txt",
+		"/C/Users/henry.tran/Downloads/CoffeeShop/CoffeeShop_DarkBG_HeroImg.html",
+		"/C/Temp/Marketing/Sitefinity/Document Library/006/file.txt",
+		"/C/Temp/Marketing/Sitefinity/Document Library/006/thumbnail/image.txt",
+		"/C/Temp/Marketing/Sitefinity/asin/css/mixins.less",
+		"/C/Temp/Marketing/Sitefinity/asinner/css/variables.less",
+		"/C/Temp/Marketing/Sitefinity/asin/css/old-content.css",
+		"/C/Temp/Marketing/Sitefinity/asin/css/global.min-old-content.css",
+		"/C/Temp/Marketing/Sitefinity/asinner/css/global.css",
+		"/C/Temp/Marketing/Sitefinity/asinner/css/asin.less",
+		"/C/Temp/Marketing/Sitefinity/asinner/css/global.less",
+		"/C/Temp/Marketing/Sitefinity/asinner/css/navigation.less",
+		"/C/Temp/Marketing/Sitefinity/asinner/global.less",
+		"/C/Temp/Marketing/Sitefinity/asinner/thingrid.less",
+		"/C/Temp/Marketing/Sitefinity/asin/css/global.min.css",
+		"/C/Temp/Marketing/Sitefinity/asin/css/global.css",
+		"/C/Temp/Marketing/Sitefinity/Source Control/20151105/Styles/global.css",
+		"//cmsuat.guidancesoftware.com/DavWWWRoot/Style Library/wombat/css/old-content.css",
+		"//cmsuat.guidancesoftware.com/DavWWWRoot/Style Library/wombat/css/sprite.css",
+		"//cmsuat.guidancesoftware.com/DavWWWRoot/Style Library/wombat/css/sprite.css.map",
+		"/C/Temp/Marketing/Sitefinity/asin/css/bootstrap-v3.3.4-old-content.css",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/NavigationHeaderFooterSearch.html",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/js/global.js",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/NavigationHeaderFooter.html",
+		"/C/Users/henry.tran/Desktop/MKTG-2935-pr.html",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/MISC/tableau.zip",
+		"/C/Users/henry.tran/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FGUONBVZ/www.guidancesoftware[1]",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/tracking.js",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/Sitefinity_GA_Event_Tracking_20151104.js",
+		"/C/Temp/Marketing/Error Pages/maintenance_20151030.html",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/Google Analytics.js",
+		"/C/Users/henry.tran/Desktop/web/web/GUID-A-728x90_Tag.html",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/Sitefinity_GA_Event_Tracking_20151102.js",
+		"/C/Temp/Marketing/Error Pages/tls/oops_20150918.html",
+		"/C/Temp/Marketing/Error Pages/tls/oops_20151030.html",
+		"/C/Users/henry.tran/Desktop/web-optionA/web-optionA/GoogleAds-A-Tag.html",
+		"/C/Temp/Marketing/Intranet/HiThere/mktg-hp-layout.html",
+		"/C/Temp/Marketing/Intranet/HiThere/css/SharePoint.less",
+		"/C/Temp/Marketing/Intranet/HiThere/steal/ItemStyle.xsl",
+		"/C/Users/henry.tran/Desktop/web-about-us-contact-general-opt-in-reverted.txt",
+		"/C/Temp/Marketing/Intranet/HiThere/css/modifiers.less",
+		"/C/Temp/Marketing/Branding/Communication/Priority Business Card Listing 10152015 _HT",
+		"/Y/Style Library/XSL Style Sheets/ItemStyle.xsl",
+		"/Z/g/css/mktg-hp.css",
+		"/C/Temp/Marketing/Intranet/HiThere/css/SharePoint.css",
+		"/C/Temp/Marketing/Intranet/HiThere/css/variables.less",
+		"/C/Users/henry.tran/AppData/Roaming/Sublime Text 3/Packages/Simple Print Function/SublimePrint.sublime-settings",
+		"/C/Users/henry.tran/AppData/Roaming/Sublime Text 3/Packages/User/SublimePrint.sublime-settings",
+		"/C/Temp/Marketing/Intranet/HiThere/HiThere.html",
+		"/C/Temp/Marketing/Intranet/HiThere/css/gsireset.less",
+		"/C/Temp/Marketing/Intranet/HiThere/css/mktg.less",
+		"/C/Temp/Marketing/Intranet/HiThere/webpart.html",
+		"/C/Temp/Marketing/Intranet/HiThere/steal/GsiItemStyle.xsl",
+		"/C/Temp/Marketing/Intranet/Steal HomePage Stuff/custom.css",
+		"/C/Users/henry.tran/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/C/Users/henry.tran/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/C/Users/henry.tran/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/IR/css/ir.css",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/IR/css/modifiers.less",
+		"/Z/mktg-hp.css",
+		"/X/Creative Lab/Website/Sitefinity/Style Guide/Sample/Retrospect/elements.html",
+		"/C/Temp/Marketing/Sitefinity/terra.html",
+		"/C/Temp/Marketing/Sitefinity/Style Guide/styleguide.css",
+		"/Z/mktg-hp.js",
+		"/C/Temp/Marketing/Sitefinity/Style Guide/styleguide.html",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/IR/styleguide.html",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/IR/css/styleguide.css",
+		"/C/Temp/Marketing/Sitefinity/Terra.css",
+		"/C/Temp/Marketing/Sitefinity/3rd Party Site/IR/styleguide.css",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/DemandBase.js",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/Adobe Analytics.js",
+		"/C/Temp/Marketing/Sitefinity/JavaScript/Brightcove.js",
+		"/C/Users/henry.tran/Downloads/custom.css",
+		"/C/Temp/Marketing/Intranet/Henry/mktg-hp-layout.html",
+		"/C/Temp/Marketing/Intranet/Henry/henry.master",
+		"/C/Temp/Marketing/Intranet/Henry/webpart.html",
+		"/C/Temp/Marketing/Intranet/Steal HomePage Stuff/GsiItemStyle.xsl",
+		"/C/Users/henry.tran/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/HDBA6VNC/test[1]",
+		"/C/Users/henry.tran/Downloads/qualaroo.min.js",
+		"/Z/bootstrap.3.3.5-mktg.css",
+		"/C/Temp/Marketing/Intranet/Henry/Upcoming Events.webpart",
+		"/Z/LinkGenerator.html",
+		"/Z/henry2.css",
+		"/Z/henry.html",
+		"/C/Temp/Marketing/Archive/Mobile/HTML/Master Page/MinimalMasterAnnotated.master",
+		"/Z/henry.css",
+		"/C/Temp/Marketing/Sitefinity/Fonts/MyFontsWebfontsKit/MyFontsWebfontsKit/StartHere.html",
+		"/C/Temp/Marketing/Branding/Signature/GSISign - 20151005.htm",
+		"/C/Temp/Marketing/Branding/Signature/GSISign - Calibri.htm",
+		"/C/Users/henry.tran/Desktop/dee/gascript today",
+		"/C/Users/henry.tran/Desktop/dee/GoogleScripts-151006.ascx",
+		"/C/Temp/Marketing/Sitefinity/Fonts/MyFontsWebfontsKit/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/Temp/Marketing/Branding/Signature/GSISign - Tahoma.htm",
+		"/C/Temp/Marketing/Branding/Responsive Email/EmailMonks_responsivetemplate/index.html",
+		"/C/Users/henry.tran/Desktop/CPU-20151001T140740.cpuprofile",
+		"/C/Temp/Marketing/Branding/Responsive Email/EOA_V2_Template/Seashells_Inline.html",
+		"/C/Temp/Marketing/Branding/Default Email Template/GS Enfuse Email.html",
+		"/C/Temp/Marketing/Branding/Responsive Email/EOA_V2_Template/Other Versions/Seashells_Classes.html",
+		"/C/Temp/Marketing/Branding/Responsive Email/EOA_V2_Template/Other Versions/Seashells_Campaign-Monitor.html",
+		"/C/Temp/Marketing/Branding/GS Enfuse Email/GS Enfuse Email.html",
+		"/C/Temp/Marketing/Branding/GS Enfuse Email/GS Generic Email.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"em_wrapper",
+			" sizzle1447896229174=\"[object Object]\"",
+			" sizzle1447895881722=\"[object Object]\" sizzle1447896229174=\"[object Object]\"",
+			" sizzle1447896229174=\"[object Object]\" ",
+			" sizzle1447896229174=\"[object Object]\" sizzle1447895881722=\"[object Object]\" sizzle1447895510995=\"[object Object]\" sizzle1447895279608=\"[object Object]\"",
+			"adobe",
+			"href=\"privacy@guid.com\"",
+			"&",
+			"privacy@encase.com",
+			"privacy@guidancesoftware.com",
+			"mailto:GSILegalDepartment@encase.com",
+			"id",
+			"How EnCase can help:",
+			"Subcategory",
+			" jquery19104828124831901084=\"49\" jquery19106495880494491206=\"49\" jquery191047351397147388796=\"118\" jquery191084223721600338=\"118\" jquery1112024459703452495962=\"57\"",
+			" sizzle-1443570417162=\"[object Object]\" sizzle-1443570406269=\"[object Object]\" sizzle-1437194602595=\"[object Object]\" sizzle-1437194594497=\"[object Object]\"",
+			" sizzle1448044105760=\"[object Object]\"",
+			" sizzle-1369782683302=\"[object Object]\" sizzle-1369782430393=\"[object Object]\" sizzle-1369844752313=\"[object Object]\" sizzle1447895279608=\"[object Object]\"",
+			" sizzle-1369782683302=\"[object Object]\" sizzle-1369782430393=\"[object Object]\" sizzle-1369844752313=\"[object Object]\" sizzle1447895279608=\"[object Object]\" ",
+			" sizzle1447895279608=\"[object Object]\"",
+			" sizzle1447889556495=\"[object Object]\"",
+			"margin-top:",
+			"margin-top",
+			"nth",
+			"body",
+			"#mainfooter",
+			"transit",
+			"navbar-nav",
+			"ul.nav.navbar-nav",
+			" sizzle-1446590969866=\"[object Object]\" sizzle-1446590920688=\"[object Object]\" sizzle-1446590627122=\"[object Object]\" sizzle-1444233316801=\"[object Object]\" sizzle-1444233204136=\"[object Object]\" sizzle1447878709512=\"[object Object]\" sizzle1447878801540=\"[object Object]\" sizzle1447878871500=\"[object Object]\"",
+			"TC20-BNDL",
+			" sizzle1447865648878=\"[object Object]\" sizzle1447865672290=\"[object Object]\"",
+			" sizzle1447865648878=\"[object Object]\" sizzle1447865672290=\"[object Object]\" ",
+			"enfuse",
+			"encase",
+			"guid",
+			"primary",
+			"col-md-",
+			"col-sm-",
+			"xsl:var",
+			"xsl:other",
+			"wombat",
+			".split",
+			"#WebPartWPQ13",
+			"14",
+			"14px",
+			"HTLink",
+			"CallItemTemplate",
+			"BeginListItem",
+			"dfwp-item",
+			"com",
+			".com",
+			"searc",
+			"icon",
+			"fixed",
+			"search",
+			"sear",
+			"searc",
+			"ul li",
+			"#gsi-content ",
+			"#gsi-content .",
+			"text-align: center",
+			");\n",
+			"https://www.guidancesoftware.com/",
+			"http://",
+			"fonts/",
+			"image-area-lef",
+			"dfwp-item",
+			"field",
+			"border-box",
+			"col-md",
+			"henry",
+			"link",
+			"recover",
+			"?cmpid=side_menu_r",
+			"?cmpid=nav_r",
+			"a ",
+			"img",
+			"async ",
+			"\" async=​\"async",
+			"charset=​\"utf-8\" async ",
+			"\">​ ​</script>​",
+			"\" type=​\"text/​javascript",
+			" type=​\"text/​script",
+			"\">​</script>​",
+			"<script language=​\"JavaScript\" type=​\"text/​javascript\" ",
+			"src=​\"",
+			"<script src=​\"",
+			"<script type=​\"text/​javascript\" ",
+			">",
+			"side_space",
+			"em_bg_center",
+			"em_height_40",
+			"fillFromIPXML",
+			"selectListTitlePhrase",
+			".request",
+			"\"",
+			"js",
+			"webex",
+			"cms",
+			"www",
+			"http://guidancesoftware.com",
+			"login",
+			"cookie",
+			"cms",
+			"@current",
+			"assignee: \"@inherit\" ",
+			"ul.g",
+			"480",
+			"right-draw",
+			"transform",
+			"trans",
+			"tran",
+			"nav#header",
+			"nav",
+			"css",
+			"cart",
+			" sizzle-1369844752313=\"[object Object]\" sizzle-1369782430393=\"[object Object]\" sizzle-1369782683302=\"[object Object]\"",
+			" sizzle-1369844752313=\"[object Object]\" sizzle-1369782430393=\"[object Object]\" sizzle-1369782683302=\"[object Object]",
+			" sizzle-1369844752313=\"[object Object]\" sizzle-1369782430393=\"[object Object]\" sizzle-1369782683302=\"[object Object",
+			"endpoint secur",
+			"ns1:",
+			"https://www.guidancesoftware.com/about/Pages/default.aspx",
+			"font-size",
+			"width",
+			"font-size",
+			"font-szie",
+			"font-size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"href=\"mailto:privacy@guid.com\"",
+			"and",
+			"privacy@guid.com",
+			"Cómo puede ayudar EnCase:",
+			"Subcategoría",
+			"",
+			" ",
+			"col-xs-",
+			"col-md-",
+			"#WebPartWPQ7",
+			"",
+			"https://",
+			"http://www.guidancesoftware.com/fonts/",
+			"",
+			"cmsuat",
+			"uat",
+			"https://www.guidancesoftware.com",
+			"@inherit",
+			"",
+			"#header",
+			"",
+			"/Partners/Pages/technology-partners.aspx",
+			"EnCase",
+			"#Enfuse",
+			"Enfuse",
+			"Request a Demo",
+			"",
+			" ",
+			"",
+			"Event Team",
+			"Sales Enablement Set",
+			"lnk",
+			"",
+			"/",
+			"",
+			" nosend=\"1\"",
+			"nosend=\"1\" border=\"0\"",
+			"9pt",
+			"10pt",
+			"&quot;Tahoma&quot;,&quot;Verdana&quot;",
+			"&quot;Calibri&quot;,&quot;Tahoma&quot;,&quot;Verdana&quot;",
+			"font-family:'Calibri','Tahoma','Verdana'",
+			"size=\"3\"",
+			"font size=\"2\"",
+			"#004A80",
+			"",
+			"color: #004a80",
+			"Calibri, Tahoma, Verdana",
+			"%7b",
+			"%7d",
+			"%7b",
+			"col-sm-6",
+			"%7d",
+			"%7b",
+			"750",
+			"center;",
+			"pull-right margin-0",
+			"class=\"pull-left margin-0\"",
+			"right",
+			"<div class=\"box-section\">",
+			"<p><strong>Subcategory ",
+			"<p><strong>Subcategory",
+			"<div class=\"box-section pull-left\" style=\"width: 248px\">",
+			"",
+			"The State of Information Security",
+			"-",
+			"",
+			"-",
+			"2015",
+			"-",
+			"https://www.guidancesoftware.com/",
+			"&amp;",
+			"&#187;",
+			"<br/>",
+			"",
+			"img src=\"https://www.guidancesoftware/",
+			"a href=\"https://www.guidancesoftware/",
+			"-",
+			"sg.",
+			"height: 160px;",
+			"Aprender Más",
+			"&amp;",
+			"font-size: 15px; ",
+			"",
+			"EnCase+Analytics",
+			"margin: 0px 25px 5px 0px; color: rgb(102, 102, 102); line-height: 22px; font-size: 15px; font-weight: bold; display: block;",
+			"margin: 0px 25px 10px 0px; color: rgb(51, 51, 51); line-height: 22px; font-size: 18px; font-weight: bold; display: block;",
+			"border-bottom: 10px ",
+			"<a target=\"_blank\" href",
+			"/products/encase-jump-start-server/image/",
+			"wrapper",
+			"",
+			"class=\"center-content\" style=\"position: relative; width: 1180px; margin: 0 auto;\"",
+			";",
+			"",
+			"'",
+			"/overview.aspx?cmpid=Direct-Website-Remote_Recovery_NA-Try_Now_btn_overview-A-Landing_Page-Remote_Recovery_Overview-11-20-2014&utm_source=Website&utm_medium=Direct&utm_campaign=11-20-2014-Remote_Recovery_NA-Try_Now_btn_overview",
+			"/EnCaseRemoteRecoveryConfirmation.aspx?cmpid=Direct-Website-Remote_Recovery_NA-Overview_btn_buy_now-A-Landing_Page-Remote_Recovery_Buy_Now-11-20-2014&utm_source=Website&utm_medium=Direct&utm_campaign=11-20-2014-Remote_Recovery_NA-Overview_btn_buy_now",
+			"/overview.aspx?cmpid=Direct-Website-Remote_Recovery_NA-Try_Now_btn_overview-A-Landing_Page-Remote_Recovery_Overview-11-20-2014&utm_source=Website&utm_medium=Direct&utm_campaign=11-20-2014-Remote_Recovery_NA-Try_Now_btn_overview",
+			"/try-now.aspx?cmpid=Direct-Website-Remote_Recovery_NA-Overview_btn_try_now-A-Landing_Page-Remote_Recovery_Free_Trial-11-20-2014&utm_source=Website&utm_medium=Direct&utm_campaign=11-20-2014-Remote_Recovery_NA-Overview_btn_try_now",
+			"/EnCaseRemoteRecoveryConfirmation.aspx?cmpid=Direct-Website-Remote_Recovery_NA-Overview_btn_buy_now-A-Landing_Page-Remote_Recovery_Buy_Now-11-20-2014&utm_source=Website&utm_medium=Direct&utm_campaign=11-20-2014-Remote_Recovery_NA-Overview_btn_buy_now",
+			"&amp;",
+			"&amp",
+			"'",
+			".aspx?cmpid=general_inquiry_contact_us",
+			"</li>",
+			"Learn more",
+			"grid100 inline font-center chat-header",
+			"grid33 chat-grid",
+			"\"",
+			"",
+			"width: 200px",
+			"~",
+			"+",
+			"004a80",
+			"h2",
+			"margin-20",
+			"margin-10",
+			"",
+			"Morton’s The Steakhouse",
+			"<a class=\"keepCMPID\" href=\"http://connect.guidancesoftware.com/LP=547/",
+			"<a class=\"keepCMPID\" href=\"http://connect.guidancesoftware.com/",
+			"LP=554",
+			"LP=553",
+			"<li><a href=\"http://www.guidancesoftware.com/",
+			"<li><a href=\"http://www.guidancesoftware.com",
+			"http://www.guidancesoftware.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1321,
+								1321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import {bootstrap} from 'angular2/platform/browser",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/sg13.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import {Component} from 'angular2/core';",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "sg13.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
