@@ -1,9 +1,7 @@
 import {Component} from 'angular2/core';
-import {Todo} from './todo';
-import {TodoList} from './todo_list';
-import {TodoForm} from './todo_form';
+i
 @Component({
-  selector: 'todo-app',
+  selector: 'sg13',
   template: `
     <h2>Todo</h2>
     <span>{{remaining}} of {{todos.length}} remaining</span>
@@ -13,7 +11,7 @@ import {TodoForm} from './todo_form';
   styles:['a { cursor: pointer; cursor: hand; }'],
   directives: [TodoList, TodoForm]
 })
-export class TodoApp {
+export class sg13 {
   todos: Todo[] = [
       {text:'learn angular', done:true},
       {text:'build an angular app', done:false}
