@@ -7,6 +7,9 @@ import {Player} from './player';
   template: `
     <h2>SG13 <input type="number" value="{{_maxPlayer}}"></h2>
     <span> of {{Cards.length}} remaining</span>
+    <span *ngFor="#player of Players">
+      Player: {{player.id}} has {{player.hand}} Cards in hand
+    </span> <br/>
     <ul>
       <li *ngFor="#card of Cards">
         <span>{{card.num}} and {{card.suit}} playered to {{card.player}}</span>
@@ -15,32 +18,33 @@ import {Player} from './player';
     [ <a (click)="newGame()">New Game</a> ]
     `
 })
-export class sg13 {
-  Players: Player[] = [
-    { id: 1},
-    { id: 2},
-    { id: 3},
-    { id: 4}
-  ];
+export class sg13 implements OnInit {
   _maxPlayer: number = 4;
-  Cards: Card[] = [
-    { id: 1, num: "3", suit: "C", player: { id: 1 } },
-    { id: 2, num: "3", suit: "D", player: { id: 1 } },
-    { id: 3, num: "3", suit: "S", player: { id: 1 } },
-    { id: 4, num: "3", suit: "H", player: { id: 1 } },
-    { id: 5, num: "4", suit: "C", player: { id: 1 } },
-    { id: 6, num: "4", suit: "D", player: { id: 1 } },
-    { id: 7, num: "4", suit: "S", player: { id: 1 } },
-    { id: 8, num: "4", suit: "H", player: { id: 1 } },
-    { id: 9, num: "5", suit: "C", player: { id: 1 } },
-    { id: 10, num: "5", suit: "D", player: { id: 1 } },
-    { id: 11, num: "5", suit: "S", player: { id: 1 } },
-    { id: 12, num: "5", suit: "H", player: { id: 1 } },
+  CardNum: string[] = ["3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", "2"];
+  CardSuit: string[] = ["C", "D", "S", "H"];
+  Cards: Card[] = [];
+  Players: Player[] = [
+    { id: 1, hand: 0},
+    { id: 2, hand: 0},
+    { id: 3, hand: 0},
+    { id: 4, hand: 0}
   ];
+  ngOnInit() {
+    var z = 1;
+    this.CardNum.forEach(x => {
+      this.CardSuit.forEach(y => {
+        this.Cards.push({ id: z, num: x, suit: y, player: 1 });
+        z++;
+      });
+    });
+  }
   newGame() {
     this.Cards.forEach(card  => {
       var t_player = Math.floor((Math.random() * this._maxPlayer) + 1);
-      card.player = {id: t_player };
+      card.player = t_player;
+    });
+    this.Players.forEach(player => {
+        player.hand = this.Cards.filter((f) => f.player == player.id).length;
     });
   }
 }
