@@ -1,5 +1,5 @@
 export interface Card {
-  id: number;
+  rank: number;
   num: string;
   suit: string;
 }

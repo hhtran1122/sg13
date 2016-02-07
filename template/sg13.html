@@ -1,0 +1,15 @@
+<h2>SG13 <input type="number" value="{{_maxPlayer}}"></h2> 
+[ <a (click)="newGame()">New Game</a> ] [ <a (click)="reset()">Reset</a> ]
+<div class="container">
+    <div class="row">
+        <div *ngFor="#player of Players" class="col-md-3">
+            <h3 class="text-center">{{player.id}}</h3>
+            <hand [hand]="player.hand"></hand>
+            <!-- <ul>
+                <li *ngFor="#hand of player.hand">
+                    {{hand.num}}{{hand.suit}}
+                </li>
+            </ul> -->
+        </div>
+    </div>
+</div>

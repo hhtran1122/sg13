@@ -1,30 +1,19 @@
 import {Component} from 'angular2/core';
 import {Card} from './card';
 import {Player} from './player';
+import {Hand} from './hand';
 
 @Component({
   selector: 'sg13',
-  template: `
-    <h2>SG13 <input type="number" value="{{_maxPlayer}}"></h2>
-    
-    <div *ngFor="#player of Players">
-      Player: {{player.id}} has {{player.hand.length}} Cards in hand
-    </div>
-    [ <a (click)="newGame()">New Game</a> ]
-    [ <a (click)="reset()">Reset</a> ]
-    <ul>
-      <li *ngFor="#card of Players[0].hand" >
-        {{card.num}}{{card.suit}}
-      </li>
-    </ul>
-    `
+  templateUrl: 'template/sg13.html',
+  directives: [Hand]
 })
 export class sg13 implements OnInit {
+  _gameId: number = 0;
   _maxPlayer: number = 4;
-  _maxHand: number = 13;
-  _maxDeck: number = this._maxPlayer * this._maxHand;
-  _gameNum: number = 0;
-  CardNum: string[] = ["3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", "2"];
+  _maxHand: number;
+  _maxDeck: number;
+  CardNumber: string[] = ["3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", "2"];
   CardSuit: string[] = ["C", "D", "S", "H"];
   Deck: Card[] = [];
   Players: Player[] = [
@@ -36,26 +25,30 @@ export class sg13 implements OnInit {
   
   ngOnInit() {
     var z = 1;
-    this.CardNum.forEach(x => {
+    this.CardNumber.forEach(x => {
       this.CardSuit.forEach(y => {
-        this.Deck.push({ id: z, num: x, suit: y});
+        this.Deck.push({ rank: z, num: x, suit: y});
         z++;
       });
     });
+    this._maxDeck = z - 1;
+    this._maxHand = this._maxDeck / this._maxPlayer;
   }
+
   newGame() {
     this.reset();
     this.shuffle();
-    this._gameNum++;
+    this._gameId++;
   }
+
   reset() {
-    if (this._gameNum != 0) {
-      console.log("a");
-      this.Players.forEach(p => {
-        this.Deck = this.Deck.concat(p.hand.splice(0, this._maxHand));
+    if (this._gameId != 0) {
+      this.Players.forEach(player => {
+        this.Deck = this.Deck.concat(player.hand.splice(0, this._maxHand));
       });
     }
   }
+
   fisherYates (array) {
     var cIndex = array.length, t_Card, rIndex;
     while (0 !== cIndex) {
@@ -67,55 +60,20 @@ export class sg13 implements OnInit {
     }
     return array;
   }
+
   shuffle() {
     var suffledDeck = this.fisherYates(this.Deck);
     this.Deck = [];
     this.Deck = suffledDeck;
     while (this.Deck.length != 0) {
-      for (i = 0; i < this.Players.length; i++ ) {
+      for (var i = 0; i < this.Players.length; i++) {
         this.transferCard(this.Players[i]);
-      });
+      }
     }
-    // ---- Try to use a while loop to shuffle
-    // var modifier;
-    // firstHalf ? modifier = this._maxDeck / 2 : modifier = 0;
-    // while (this.Deck.length !=  modifier) {
-    //   var t_player: number;
-    //   t_player = Math.floor((Math.random() * this._maxPlayer) + 1);
-    //   while (this.Players[t_player - 1].hand.length >= this._maxHand) {
-    //     t_player = this.nextPlayer(t_player);
-    //   }
-    //   console.log("b");
-    //   // card.player = t_player;
-    //   // var c: Card = this.Deck.shift();
-    //   this.transferCard(this.Players[t_player - 1]);a
-    // }
-    // if (firstHalf) window.setTimeout(this.shuffle(false), 2000);
-    //
-    // 
-    // ----- Try to assign a iternate thru deck
-    // this.Deck.forEach(card  => {
-    //   var t_player: number;
-    //   t_player = Math.floor((Math.random() * this._maxPlayer) + 1);
-    //   while (this.Deck.filter((f) => f.player == t_player).length >= this._maxHand) {
-    //     t_player = this.nextPlayer(t_player);
-    //   }
-    //   card.player = t_player;
-    //   console.log("b");
-    //   this.transferCard(card, this.Players[t_player - 1]);
-    //   // this.Players[t_player-1].hand.push({ id: card.id, num: card.num, suit: card.suit, player: t_player });
-    //   console.log(this.Players[t_player - 1].hand.length);
-    // });
   }
-  nextPlayer(t) {
-    if (this.Players[t - 1].hand.length < this._maxHand) {
-      if (t == 4) t = 0;
-      t++;
-    }
-    return t;
-  }
+
   transferCard(player: Player) {
-    var c: Card = this.Deck.shift();
-    player.hand.push(c);
+    var card: Card = this.Deck.shift();
+    player.hand.push(card);
   }
 }
