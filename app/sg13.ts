@@ -27,7 +27,7 @@ export class sg13 implements OnInit {
     var z = 1;
     this.CardNumber.forEach(x => {
       this.CardSuit.forEach(y => {
-        this.Deck.push({ rank: z, num: x, suit: y});
+        this.Deck.push({ rank: z, num: x, suit: y, selected: false});
         z++;
       });
     });

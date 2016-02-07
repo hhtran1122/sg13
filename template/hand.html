@@ -1,5 +1,7 @@
 <ul>
-    <li *ngFor="#card of hand">
-        {{card.num}}{{card.suit}}
+    <li *ngFor="#card of hand"
+        [class.selected]="card.selected"
+        (click)="onSelect(card)">
+        {{card.num}}{{card.suit}} and {{card.selected}}
     </li>
 </ul>
