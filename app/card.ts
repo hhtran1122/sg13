@@ -3,4 +3,5 @@ export interface Card {
   num: string;
   suit: string;
   selected: boolean;
+  played: boolean;
 }

@@ -1,10 +1,25 @@
-<h2>SG13 <input type="number" value="{{_maxPlayer}}"></h2> 
+<h2>SG13 <input type="number" value="{{_currentPlayer}}"></h2> 
 [ <a (click)="newGame()">New Game</a> ] [ <a (click)="reset()">Reset</a> ]
 <div class="container">
     <div class="row">
         <div *ngFor="#player of Players" class="col-md-3">
             <h3 class="text-center">{{player.id}}</h3>
             <hand [hand]="player.hand"></hand>
+            <a *ngIf="player.id === 1 && player.hand.length > 0" (click)="submit(player)">Submit</a>
         </div>
     </div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+		<ul *ngFor="#battle of Battles">
+			<li>{{battle.gameId}} {{battle.playerId}}
+			<ul *ngFor="#hand of battle.hand">
+				<li>{{hand.rank}} {{hand.num}} {{hand.suit}}</li>
+			</ul>
+			</li>
+		</ul>
+		
+		</div>
+	</div>
 </div>

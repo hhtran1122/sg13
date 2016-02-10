@@ -8,13 +8,14 @@ import {Card} from './card';
     .selected {
       background-color: #CFD8DC !important;
       color: white;
-    }`
+    }`]
 })
 export class Hand {
 	@Input() hand: Card[];
-	selectedCard: Card[];
+	//selectedCard: Card[];
 
 	onSelect(card: Card) {
 		card.selected = !card.selected;
 	}
+	
 }

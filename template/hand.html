@@ -2,6 +2,6 @@
     <li *ngFor="#card of hand"
         [class.selected]="card.selected"
         (click)="onSelect(card)">
-        {{card.num}}{{card.suit}} and {{card.selected}}
+        {{card.num}}{{card.suit}} and {{card.selected}} | {{card.played}}
     </li>
 </ul>
